@@ -128,5 +128,5 @@ if __name__ == "__main__":
     # 第二次：use_attribute=True
     
     use_attr = True  # 更改为 False 和 True 分别测试
-    
+    print('a')
     test_performance(use_attribute=use_attr)
